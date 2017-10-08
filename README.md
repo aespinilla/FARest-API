@@ -105,6 +105,10 @@ http://elcabezon.es:3200/api/film
 ### Preview
 Get simplified info from an array of ids. The result object array is like as result of search.
 
+````
+http://elcabezon.es:3200/api/film/preview
+````
+
 ##### Parameters
 * **id** - Array of ids
 * **lang** (optional) - Lang of result. Could be 'es' (Spanish) or 'en' (English). Default is Spanish
@@ -161,6 +165,10 @@ Get simplified info from an array of ids. The result object array is like as res
 
 ### Search
 Search films, series, directors or actors from query.
+
+````
+http://elcabezon.es:3200/api/search
+````
 
 ##### Parameters
 * **query** - query param
