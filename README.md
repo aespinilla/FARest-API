@@ -235,11 +235,6 @@ There are four type of search (Must be in uppercase)
                 "votes": "185,182 "
             },
             ...
-           
-                ],
-                "rating": "--",
-                "votes": ""
-            }
         ]
     }
 }
